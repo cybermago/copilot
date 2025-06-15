@@ -21,11 +21,12 @@ Ele se destaca por unir:
 🏗️ Arquitetura de Alto Nível
 
 graph TD
-A[Usuário Final] --> B[Copilot UI (Chat, Teams, Web)]
-B --> C[Copilot Studio Runtime]
-C --> D[Large Language Models (Azure OpenAI)]
-C --> E[Power Automate (Fluxos)]
-C --> F[Dataverse / APIs / Connectors]
+|A[Usuário Final]| --> B |[Copilot UI (Chat, Teams, Web)]        |
+|----------------|-------|---------------------------------------|
+|B               | --> C |[Copilot Studio Runtime]               |
+|C               | --> D |[Large Language Models (Azure OpenAI)] |
+|C               | --> E |[Power Automate (Fluxos)]              |
+|C               | --> F |[Dataverse / APIs / Connectors]        |
 
 ⚙️ Componentes Principais
 |Componente	            |Função	                                                                    |Tecnologias Base               |
