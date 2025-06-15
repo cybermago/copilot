@@ -28,14 +28,15 @@ C --> E[Power Automate (Fluxos)]
 C --> F[Dataverse / APIs / Connectors]
 
 ⚙️ Componentes Principais
-Componente	Função	Tecnologias Base
-🤖 Copilot Builder	Interface de criação de copilotos com fluxos e IA	Power Platform UI
-🧭 Tópicos	Encadeamento de diálogos com NLP e gatilhos	LLM + NLP rules
-🔌 Conectores	Integração com APIs REST, SQL, Dynamics, SharePoint, etc	HTTP REST, OData
-🧬 Ações	Blocos lógicos que executam operações (criar ticket, enviar email, etc)	Power Automate
-🧠 GPT Plugin	Embutir prompts em fluxos com IA generativa contextualizada	Azure OpenAI (GPT-4 / GPT-3.5)
-🔐 Autenticação	Permissões e contexto empresarial com login seguro	Azure AD
-🧭 Fluxo de Construção
+|Componente	            |Função	                                                                    |Tecnologias Base               |
+|-----------------------|---------------------------------------------------------------------------|-------------------------------|
+|🤖 Copilot Builder	    |Interface de criação de copilotos com fluxos e IA	                        |Power Platform UI              |
+|🧭 Tópicos	            |Encadeamento de diálogos com NLP e gatilhos	                            |LLM + NLP rules                |
+|🔌 Conectores	        |Integração com APIs REST, SQL, Dynamics, SharePoint, etc	                |HTTP REST, OData               |
+|🧬 Ações	            |Blocos lógicos que executam operações (criar ticket, enviar email, etc)	|Power Automate                 |
+|🧠 GPT Plugin	        |Embutir prompts em fluxos com IA generativa contextualizada	            |Azure OpenAI (GPT-4 / GPT-3.5) |
+|🔐 Autenticação	    |Permissões e contexto empresarial com login seguro	                        |Azure AD                       |
+|🧭 Fluxo de Construção |                                                                           |                               |
 
 graph TD
 A[Ideia ou Necessidade de Automação] --> B[Criação de Copilot]
