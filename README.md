@@ -68,21 +68,24 @@ E --> F[Publicação para Teams, Web, ou Sites internos]
 
     🧭 Compatível com políticas de conformidade Microsoft (DLP, GDPR)
 
-💡 Exemplos de Uso
-Caso	Descrição
-🏥 Atendimento Hospitalar	Copilot responde pacientes, agenda consultas e verifica prontuários
-🏢 RH Corporativo	Responde dúvidas de colaboradores e inicia processos de férias
-📦 Suporte Técnico	Abre chamados, verifica status e oferece tutoriais interativos
-📚 Educação	Tutor virtual para responder dúvidas e guiar o aprendizado
-🧪 Análise Crítica (Visão Científica)
-Aspecto	Observação
-🧠 Arquitetura Cognitiva	Sistema híbrido entre NLP clássico e LLMs, bem orquestrado
-⚡ Latência	Depende fortemente do uso de ações externas (APIs)
-🎯 Escalabilidade	Modular e escalável via Power Platform e Azure
-🔍 Interpretabilidade	Reduzida em partes generativas (black-box)
-🧩 Extensibilidade	Alta: APIs, plugins GPT, ações customizadas
-📉 Risco	Overdependência de infraestrutura Microsoft e custos variáveis por consumo
-📷 Imagem Representativa (Esquemática)
+|💡 Exemplos de Uso                                                                              |    
+|Caso	                    | Descrição                                                          |
+|------------------------------------------------------------------------------------------------|
+|🏥 Atendimento Hospitalar	| Copilot responde pacientes, agenda consultas e verifica prontuários|
+|🏢 RH Corporativo	        | Responde dúvidas de colaboradores e inicia processos de férias     |          
+|📦 Suporte Técnico	        | Abre chamados, verifica status e oferece tutoriais interativos     |
+|📚 Educação	            | Tutor virtual para responder dúvidas e guiar o aprendizado         |
+|🧪 Análise Crítica (Visão Científica)                                                           |
+
+|Aspecto	                | Observação                                                               |
+|------------------------------------------------------------------------------------------------------|
+|🧠 Arquitetura Cognitiva	|Sistema híbrido entre NLP clássico e LLMs, bem orquestrado                |
+|⚡ Latência	            |Depende fortemente do uso de ações externas (APIs)                        |
+|🎯 Escalabilidade	        |Modular e escalável via Power Platform e Azure                            |
+|🔍 Interpretabilidade	    |Reduzida em partes generativas (black-box)                                |
+|🧩 Extensibilidade	Alta:   |APIs, plugins GPT, ações customizadas                                     |
+|📉 Risco	                |Overdependência de infraestrutura Microsoft e custos variáveis por consumo|
+|📷 Imagem Representativa (Esquemática)                                                                |
 
 Copilot Studio Overview
 
